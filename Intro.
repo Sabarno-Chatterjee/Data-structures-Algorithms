@@ -1,0 +1,49 @@
+Data Types:
+
+1. System-defined data types (a lso called Primitive data types)
+
+	Eg: int, noat, char, double, boo!, etc.
+
+2. User-defined data types
+	
+	If the system-defined data types arc not enough, then most programming languages allow the users to define their own data types, called user - defined data types. Good examples of user defined data types are: structures in C/C + + and classes in Java.
+
+Abstract Data Types (ADTs):
+
+	Entities that are definitions of data and operations.
+
+	Refer:
+	https://www.youtube.com/watch?v=n0e27Cpc88E
+
+
+
+
+DATA STRUCTURES: Data structure is a particular way of storing and organizing data in a computer so that it can be used efficientlly. A data structure is a special format for organizing and storing data. General data structure types include arrays, files, linked lists, stacks, queues, trees, graphs and so on.
+
+	Two types:
+	1. Linear data structures: 
+
+	Elements are accessed in a sequential order but it is not compubory to store all elements sequentially. 
+
+	Examples: Linked Lists, Stacks and Queues.
+	
+	2. Non - linear data structures: 
+
+	Elements of this data structure arc stored /accessed in a non-linear order.
+	
+	Examples: Trees and graphs.
+
+
+# Running Time Analysis:
+
+	Process of determining how processing time increases as the size of the problem (input size) increases.
+
+# Rate of Growth:
+
+	The rate at which Lhe running time inc reases as a function of input is ca lled rate of growth.
+
+
+
+
+
+Page 18
